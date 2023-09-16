@@ -1,0 +1,48 @@
+
+  
+  /* Tema Oscuro */
+  .dark {
+    background-color: #333333;
+    color: #ffffff;
+  }
+
+  .container{
+    display: flex;
+    justify-content: space-evenly;
+  
+    
+    }
+    .link{
+    text-decoration: none;
+     
+    }
+    img{
+      width: 200px;
+      margin: 0;
+    }
+    
+
+.container-cards{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1rem;
+  width: 90vw;
+  height: auto;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.consultas{
+  display:flex;
+  justify-content: center;
+text-align: center;
+}
+
+
+
+
+
+
+
+
